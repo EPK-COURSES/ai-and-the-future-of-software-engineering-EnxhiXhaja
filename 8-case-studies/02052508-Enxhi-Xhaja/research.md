@@ -38,3 +38,16 @@ Some benefits that Google's AI assisted workflow include are:
 AI generated code may still have mistakes or even security risks. Human engineers are still responsible for reviewing the final code before they release it. 
 
 Another concern is that developers may become too dependent on AI tools if they rely on it too much. 
+
+
+
+
+-------Challenges for development teams-----
+Even though AI tools improve productivity Google developers still face several challenges when using AI assisted coding systems. 
+
+One challenge is ensuring that AI generated code is secure and correct.
+Engineers must still review and test and edit if needed the code before they deploy it.
+Another one is maintaining developer skills. 
+If programmers rely too much on AI tools they may become less confident on problem solving. 
+
+There are also some concerns about privacy, code ownership and understanding complex AI generated solutions inside large software systems. 
