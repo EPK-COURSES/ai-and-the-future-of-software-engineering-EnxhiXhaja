@@ -2,5 +2,39 @@ Topic 8 - Real Industry Case Studies: Google Analysis
 
 ---Google -> Implementing AI-Assisted Coding---
 
--How the company uses AI
-Google actually makes its own AI tools to help its massive team of software engineers code faster. Instead of using public tools they have a special internal AI assistant called Goose (which runs on their Gemini AI) and another tool which they call Codey. Google's developers use these tools right inside their daily code editors. The AI helps them by auto completing long lines of codes, fixing quick little bugs and explaining giant and confusing old projects to newer engineers who just joined the team. On top of that Google even uses AI to double check their code and help out with reviews before any changes go live to the public. 
+------How Google uses AI-------
+
+Google actually makes its own AI tools to help its massive team of software engineers code faster. Instead of using public tools they have a special internal AI assistant called Goose (which runs on their Gemini AI) and another tool which they call Codey. Google's developers use these tools right inside their daily code editors. 
+The AI helps them by:
+• auto completing long lines of codes
+• fixing quick little bugs 
+• explaining giant and confusing old projects to newer engineers who just joined the team.
+
+On top of that Google even uses AI to double check their code and help out with reviews before any changes go live to the public. 
+
+
+Google also uses AI to support software maintenance and collaborations between teams by:
+- automating repetitive coding tasks, 
+- engineers can spend more time focusing on system design
+- also they can spend more time on problem solving or large scale architecture decisions.
+
+
+
+
+-------Benefits---------
+
+Some benefits that Google's AI assisted workflow include are:
+- faster development speed
+- reduced repetitive work
+- easier onboarding for new developers
+- improved productivity
+- support for large software projects
+
+
+
+
+------Limitations and Concerns------
+
+AI generated code may still have mistakes or even security risks. Human engineers are still responsible for reviewing the final code before they release it. 
+
+Another concern is that developers may become too dependent on AI tools if they rely on it too much. 
