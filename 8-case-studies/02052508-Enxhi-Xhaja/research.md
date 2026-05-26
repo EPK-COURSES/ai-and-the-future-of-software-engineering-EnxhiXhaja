@@ -51,3 +51,14 @@ Another one is maintaining developer skills.
 If programmers rely too much on AI tools they may become less confident on problem solving. 
 
 There are also some concerns about privacy, code ownership and understanding complex AI generated solutions inside large software systems. 
+
+
+
+
+--------Conclusion--------
+After researching Google'AI assiged coding tools I understood that AI is becoming a very important part of modern software engineering.
+These tools help developers save time, work faster and manage very large software projects more easily.
+
+At the same time I learned that AI cannot fully replace software engineers because human developers are still needed to review code, solve difficult problems and make important decisions.
+
+In my opinion the future of software engineering will most likely involve developers working together with AI tools instead of being replaced by them completely. 
