@@ -53,6 +53,7 @@ ________________________________________________________________________________
 
 
 -------Challenges for development teams-----
+
 Even though AI tools improve productivity Google developers still face several challenges when using AI assisted coding systems. 
 
 One challenge is ensuring that AI generated code is secure and correct.
@@ -69,6 +70,7 @@ ________________________________________________________________________________
 
 
 --------Conclusion--------
+
 After researching Google'AI assiged coding tools I understood that AI is becoming a very important part of modern software engineering.
 These tools help developers save time, work faster and manage very large software projects more easily.
 
