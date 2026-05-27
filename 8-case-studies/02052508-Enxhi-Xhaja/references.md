@@ -7,8 +7,9 @@
 
 3. GitHub. “GitHub Copilot.” https://github.com/features/copilot
 
-4. McKinsey & Company. “The Economic Potential of Generative AI.” https://www.mckinsey.com/
+4. McKinsey & Company. “The Economic Potential of Generative AI.” https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
 
-5. Forbes. “How AI Is Changing Software Development.” https://www.forbes.com/
+5. Forbes. “How AI Is Transforming Software Development.” https://www.forbes.com/councils/forbesbusinesscouncil/2026/01/16/how-ai-is-transforming-software-development/
 
-5. Google Developers Blog. “AI and Software Development.” https://developers.googleblog.com/
+6. Google Developers Blog. “Building with AI: Developer tools and Gemini updates.”  
+https://developers.googleblog.com/its-time-for-developers-and-enterprises-to-build-with-gemini-pro/
