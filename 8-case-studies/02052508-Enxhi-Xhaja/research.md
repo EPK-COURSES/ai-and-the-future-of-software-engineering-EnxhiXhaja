@@ -2,6 +2,8 @@ Topic 8 - Real Industry Case Studies: Google Analysis
 
 ---Google -> Implementing AI-Assisted Coding---
 
+________test_____________________________________________________________________________________________
+
 ------How Google uses AI-------
 
 Google actually makes its own AI tools to help its massive team of software engineers code faster. Instead of using public tools they have a special internal AI assistant called Goose (which runs on their Gemini AI) and another tool which they call Codey. Google's developers use these tools right inside their daily code editors. 
@@ -19,6 +21,7 @@ Google also uses AI to support software maintenance and collaborations between t
 - also they can spend more time on problem solving or large scale architecture decisions.
 
 
+_____________________________________________________________________________________________________
 
 
 -------Benefits---------
@@ -32,6 +35,10 @@ Some benefits that Google's AI assisted workflow include are:
 
 
 
+_____________________________________________________________________________________________________
+
+
+
 
 ------Limitations and Concerns------
 
@@ -39,6 +46,9 @@ AI generated code may still have mistakes or even security risks. Human engineer
 
 Another concern is that developers may become too dependent on AI tools if they rely on it too much. 
 
+
+
+_____________________________________________________________________________________________________
 
 
 
@@ -52,6 +62,9 @@ If programmers rely too much on AI tools they may become less confident on probl
 
 There are also some concerns about privacy, code ownership and understanding complex AI generated solutions inside large software systems. 
 
+
+
+_____________________________________________________________________________________________________
 
 
 
