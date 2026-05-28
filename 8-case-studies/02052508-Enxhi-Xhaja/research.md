@@ -1,10 +1,10 @@
-Topic 8 - Real Industry Case Studies: Google Analysis
+# Topic 8 - Real Industry Case Studies: Google Analysis
 
----Google -> Implementing AI-Assisted Coding---
+## Google - Implementing AI-Assisted Coding
 
 _____________________________________________________________________________________________________
 
-------How Google uses AI-------
+## How Google uses AI
 
 Google actually makes its own AI tools to help its massive team of software engineers code faster. Instead of using public tools they have a special internal AI assistant called Goose (which runs on their Gemini AI) and another tool which they call Codey. Google's developers use these tools right inside their daily code editors. 
 The AI helps them by:
@@ -24,7 +24,7 @@ Google also uses AI to support software maintenance and collaborations between t
 _____________________________________________________________________________________________________
 
 
--------Benefits---------
+## Benefits
 
 Some benefits that Google's AI assisted workflow include are:
 - faster development speed
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 
 
-------Limitations and Concerns------
+## Limitations and Concerns
 
 AI generated code may still have mistakes or even security risks. Human engineers are still responsible for reviewing the final code before they release it. 
 
@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 
 
--------Challenges for development teams-----
+## Challenges for development teams
 
 Even though AI tools improve productivity Google developers still face several challenges when using AI assisted coding systems. 
 
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 
 
---------Conclusion--------
+## Conclusion
 
 After researching Google'AI assiged coding tools I understood that AI is becoming a very important part of modern software engineering.
 These tools help developers save time, work faster and manage very large software projects more easily.
