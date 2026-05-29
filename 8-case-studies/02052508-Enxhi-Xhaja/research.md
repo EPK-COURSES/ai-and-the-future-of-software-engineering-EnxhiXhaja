@@ -2,42 +2,42 @@
 
 ## Google - Implementing AI-Assisted Coding
 
-_______________________________________________________________________________________________________
-
-## Table of Contents
+## Contents
 1. Abstract
 2. Introduction
 3. Literature Review
-4. Case Study: Google
-5. Advantages of AI Assisted Coding
-6. Challenges and Limitations
-7. Role of Human Developers
+4. How Google Uses AI
+5. Benefits
+6. Limitations and Concerns
+7. Challenges for Development Teams
 8. Conclusion
-
-
-_______________________________________________________________________________________________________
 
 
 ## Literature Review
 
-Artificial Intelligence has become an important topic in software engineering in recent years. Many studies and articles explain that AI tools are changing the way developers write and manage code. AI-assisted coding systems can help with tasks such as code completion debugging testing and suggesting improvements.
+Artificial Intelligence has become an important topic in software engineering in recent years. AI tools 
+are increasingly used to help developers with coding tasks such as completion, debugging, testing, and 
+improving existing code. Based on research on AI-assisted programming and big code understanding, it is 
+explained that AI systems are significantly changing how modern software is developed. 
 
-Previous research shows that these tools can increase productivity and reduce the time needed for software development. They are also useful for handling repetitive tasks which allows developers to focus more on complex problem solving and system design.
+Previous research shows that these tools can increase productivity and reduce the time needed for 
+software development. They are also useful for handling repetitive tasks which allows developers to 
+focus more on complex problem solving and system design.According to the study on GitHub Copilot, developers using AI tools show measurable improvements in productivity and coding efficiency.
 
-However, other studies also highlight some concerns. These include the possibility of incorrect code suggestions security risks and the risk that developers may rely too much on AI tools instead of improving their own coding skills.
+However, other studies also highlight some concerns. These include the possibility of incorrect code 
+suggestions security risks and the risk that developers may rely too much on AI tools instead of 
+improving their own coding skills. This is supported by research on AI coding tool failures and bugs in systems like Codex and Gemini CLI. 
 
-Overall the literature shows that AI has both positive and negative effects on software engineering and that its impact depends on how it is used in practice.
+Overall the literature shows that AI has both positive and negative effects on software engineering and 
+that its impact depends on how it is used in practice.
 
-_________________________________________________________________________________________________________
 
 ## Abstract
 
 
 Artificial Intelligence is becoming a very important part of modern software engineering. Many large
 technology companies are using AI assisted coding tools to help developers work faster and improve
-productivity and teamwork. This research focuses on Google as a real industry case study and explains
-how the company uses internal AI tools such as Gemini based assistants and Codey to support software 
-engineers in their daily work.
+productivity and teamwork. Based on research on GPT-based coding systems, it is shown that these tools can significantly support software development tasks
 
 The paper discusses the main advantages of AI assisted coding including faster software development and 
 less repetitive work for programmers. It also examines some limitations and challenges such as security
@@ -45,15 +45,12 @@ risks, possible mistakes made by AI and the danger of developers depending too m
 This research also explains why human developers are still necessary in software engineering even with
 the rapid growth of AI technologies.
 
-_____________________________________________________________________________________________________
-
 
 ## Introduction
 
 Artificial Intelligence has started changing the way software engineers work in modern technology 
 companies. Today many developers use AI-assisted tools to help with coding debugging testing and
-software maintenance. Large companies such as Google are investing heavily in AI technologies to improve 
-productivity and support development teams.
+software maintenance. According to research on GPT-4 coding experiments, these tools are becoming widely integrated into real development environments. Large companies such as Google are investing heavily in AI technologies to improve productivity and support development teams.
 
 This research focuses on Google as a real industry case study and explores how the company uses 
 AI-assisted coding systems in software engineering workflows. The research discusses the advantages of 
@@ -85,8 +82,6 @@ Google also uses AI to support software maintenance and collaborations between t
 - also they can spend more time on problem solving or large scale architecture decisions.
 
 
-_____________________________________________________________________________________________________
-
 
 ## Benefits
 
@@ -99,22 +94,14 @@ Some benefits that Google's AI assisted workflow include are:
 
 
 
-_____________________________________________________________________________________________________
-
-
-
-
 ## Limitations and Concerns
 
 AI generated code may still have mistakes or even security risks. Human engineers are still responsible 
 for reviewing the final code before they release it. 
 
-Another concern is that developers may become too dependent on AI tools if they rely on it too much. 
-
-
-
-_____________________________________________________________________________________________________
-
+Research on AI coding systems shows that another concern is that developers may become too dependent on 
+AI tools if they rely on it too much. 
+git
 
 
 ## Challenges for development teams
@@ -129,10 +116,6 @@ If programmers rely too much on AI tools they may become less confident on probl
 
 There are also some concerns about privacy, code ownership and understanding complex AI generated 
 solutions inside large software systems. 
-
-
-
-_____________________________________________________________________________________________________
 
 
 
